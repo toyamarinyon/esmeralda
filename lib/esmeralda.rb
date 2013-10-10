@@ -1,5 +1,7 @@
 require "esmeralda/version"
 
 module Esmeralda
-  # Your code goes here...
+	def self.run
+		puts 'Esmeralda Running......'
+	end
 end
