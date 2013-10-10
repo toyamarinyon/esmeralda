@@ -1,0 +1,2 @@
+require 'esmeralda'
+Esmeralda.run
